@@ -1,3 +1,8 @@
+/*
+**	Copyright (c) 2022-2030 CityColor
+**	All rights reserved.
+**	@ Date : 2022/08/01
+*/
 #include "UI/ControllerAction/ControllerAction.h"
 #include "UI/ControllerAction/ChangePageAction.h"
 #include "UI/ControllerAction/PlayTransitionAction.h"

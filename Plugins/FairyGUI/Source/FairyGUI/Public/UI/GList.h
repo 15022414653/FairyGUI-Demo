@@ -1,3 +1,8 @@
+/*
+**	Copyright (c) 2022-2030 CityColor
+**	All rights reserved.
+**	@ Date : 2022/08/01
+*/
 #pragma once
 
 #include "GComponent.h"
@@ -212,7 +217,7 @@ private:
 
     void OnScrollHandler(UEventContext* Context);
 
-    int32 GetIndexOnPos1(float& pos, bool forceUpdate);
+    int32 GetIndexOnPos1(float pos, bool forceUpdate);
     int32 GetIndexOnPos2(float& pos, bool forceUpdate);
     int32 GetIndexOnPos3(float& pos, bool forceUpdate);
 

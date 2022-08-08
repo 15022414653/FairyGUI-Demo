@@ -1,4 +1,9 @@
-﻿#include "UI/GList.h"
+﻿/*
+**	Copyright (c) 2022-2030 CityColor
+**	All rights reserved.
+**	@ Date : 2022/08/01
+*/
+#include "UI/GList.h"
 #include "UI/GButton.h"
 #include "UI/GObjectPool.h"
 #include "UI/GController.h"
@@ -1227,7 +1232,7 @@ void UGList::OnScrollHandler(UEventContext* Context)
     HandleScroll(false);
 }
 
-int32 UGList::GetIndexOnPos1(float& pos, bool forceUpdate)
+int32 UGList::GetIndexOnPos1(float pos, bool forceUpdate)
 {
     if (RealNumItems < CurLineItemCount)
     {

@@ -1,3 +1,8 @@
+/*
+**	Copyright (c) 2022-2030 CityColor
+**	All rights reserved.
+**	@ Date : 2022/08/01
+*/
 #include "Widgets/Mesh/FillMesh.h"
 
 static void FillHorizontal(FVertexHelper& Helper, FBox2D VertRect, int32 Origin, float Amount)

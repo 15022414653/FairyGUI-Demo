@@ -1,3 +1,8 @@
+/*
+**	Copyright (c) 2022-2030 CityColor
+**	All rights reserved.
+**	@ Date : 2022/08/01
+*/
 #include "Utils/ByteBuffer.h"
 
 FByteBuffer::FByteBuffer(const uint8* InBuffer, int32 InOffset, int32 InLen, bool bInTransferOwnerShip)

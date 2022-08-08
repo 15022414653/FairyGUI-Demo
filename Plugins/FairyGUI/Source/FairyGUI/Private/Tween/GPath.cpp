@@ -1,3 +1,8 @@
+/*
+**	Copyright (c) 2022-2030 CityColor
+**	All rights reserved.
+**	@ Date : 2022/08/01
+*/
 #include "Tween/GPath.h"
 
 FGPathPoint::FGPathPoint(const FVector& InPos)

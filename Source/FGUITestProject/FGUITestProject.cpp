@@ -1,4 +1,8 @@
-// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+/*
+**	Copyright (c) 2022-2030 CityColor
+**	All rights reserved.
+**	@ Date : 2022/08/01
+*/
 
 #include "FGUITestProject.h"
 #include "Modules/ModuleManager.h"

@@ -1,3 +1,8 @@
+/*
+**	Copyright (c) 2022-2030 CityColor
+**	All rights reserved.
+**	@ Date : 2022/08/01
+*/
 #include "Tween/EaseManager.h"
 
 static const float _PiOver2 = (PI * 0.5f);

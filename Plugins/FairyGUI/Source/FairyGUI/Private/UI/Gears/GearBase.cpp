@@ -1,3 +1,8 @@
+/*
+**	Copyright (c) 2022-2030 CityColor
+**	All rights reserved.
+**	@ Date : 2022/08/01
+*/
 #include "UI/Gears/GearBase.h"
 #include "UI/Gears/GearDisplay.h"
 #include "UI/Gears/GearAnimation.h"

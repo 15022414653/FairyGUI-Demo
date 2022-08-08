@@ -2,10 +2,11 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1.0",
-	"EngineVersion":"4.27.0",
+	"EngineVersion":["4.27","5.0"],
+	"MarketplaceURL":"com.epicgames.launcher://ue/marketplace/product/b6326cd5178d4f2d895c2194d21023e6",
 	"WhitelistPlatforms":["Win64","Win32","Mac","IOS","Android"],
 	"FriendlyName": "FairyGUI",
-	"Description": "FairyGUI is a cross-engine UI Solution",
+	"Description": "This is a UE4 C++ plugin for UI. Only need to use the C++ or Blueprint Functions, you can easily get the UI componenet,and execute the UI events",
 	"Category": "UI",	
 	"DocsURL": "",
 	"MarketplaceURL": "",
@@ -17,13 +18,9 @@
 	"Modules": [
 		{
 			"Name": "FairyGUI",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		},
-		{
-			"Name": "FairyGUIEditor",
-			"Type": "Editor",
-			"LoadingPhase": "Default"
+			"Type": "Runtime"
+			
 		}
-	]
+		]
+	
 }
